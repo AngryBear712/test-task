@@ -26,7 +26,7 @@ $arResult = reset($arResult)
                     </div>
             </div>
             <ul class="test">
-            <a href="\">Все новости >> </a>
+            <a href="\news.php">Все новости >> </a>
             </ul>
         </div>
     </div>
